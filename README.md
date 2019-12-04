@@ -1,4 +1,4 @@
-#Spotlight Commands
+# Spotlight Commands
 
 
 This is my collection of bash scripts saved as .command in order to be able to run them from spotlight.
